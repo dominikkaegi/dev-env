@@ -1,9 +1,3 @@
-# Ignore all files
-*
-
-# Include dot files
-# .bashrc / .tmux.conf etc
-!.*
-
-# Remove temporary .swp files
 *.swp
+
+
